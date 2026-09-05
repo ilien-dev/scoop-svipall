@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/ilien-dev/svipall/releases/download/v1.0.0-rc/svipall-1.0.0-rc-x86_64-pc-windows-msvc.zip",
-      "hash": "c9058b91f76d4f4a03a3d02e74254b4a84032b28f0655b8aaa2f6cc0bc8b8586"
+      "hash": "1ea5dbb849064497bb0b3f719a126e39054f7f18909a0ebede5e2b5b25857088"
     }
   },
   "bin": ["svipall.exe", "svipall-mcp.exe"],
