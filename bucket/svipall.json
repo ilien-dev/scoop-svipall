@@ -1,12 +1,12 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Local-first web scraping and captcha MCP server for AI agents",
   "homepage": "https://github.com/ilien-dev/svipall",
   "license": "AGPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/ilien-dev/svipall/releases/download/v1.0.0/svipall-1.0.0-x86_64-pc-windows-msvc.zip",
-      "hash": "eab9b1be423daf541492928575e75b66f779eaec9ccc6008430c7c93bdbbfcdc"
+      "url": "https://github.com/ilien-dev/svipall/releases/download/v1.0.1/svipall-1.0.1-x86_64-pc-windows-msvc.zip",
+      "hash": "30d2f32007b2929f9f38c10482a9f736f573e93c4a1fdbd155213c5ce10b9e48"
     }
   },
   "bin": ["svipall.exe", "svipall-mcp.exe"],
